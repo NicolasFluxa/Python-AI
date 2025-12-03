@@ -1,0 +1,16 @@
+id,nombre_plato,categoria,ingredientes,tiempo_estimado,dificultad
+1,Pastel de Choclo,Fondo,"Choclo molido, carne molida, cebolla, huevo duro, aceitunas, truto de pollo, albahaca, leche, azúcar (opcional)",90 min,Media
+2,Spaghetti Carbonara,Fondo,"Espaguetis, huevos, queso pecorino o parmesano, guanciale o panceta, pimienta negra, sal",25 min,Media
+3,Ensalada César con Pollo,Entrada,"Lechuga romana, pechuga de pollo grillada, crutones, queso parmesano, salsa césar, jugo de limón, aceite de oliva",20 min,Fácil
+4,Completo Italiano,Comida Rápida,"Pan de completo (copihue), vienesa, palta molida, tomate picado en cubos, mayonesa, sal",10 min,Fácil
+5,Cazuela de Vacuno,Fondo,"Carne de vacuno (osobuco o tapapecho), papas, trozo de zapallo, trozo de choclo, porotos verdes, arroz, cebolla, zanahoria, cilantro, agua",60 min,Media
+6,Pizza Margarita,Fondo,"Masa de pizza (harina, levadura, agua), salsa de tomate, queso mozzarella fresco, hojas de albahaca fresca, aceite de oliva virgen extra",40 min,Media
+7,Panqueques con Manjar,Postre,"Harina, leche, huevos, aceite o mantequilla, manjar (dulce de leche), azúcar flor para decorar",30 min,Fácil
+8,Lentejas Estofadas,Fondo,"Lentejas, chorizo (opcional), cebolla, zanahoria picada, ajo, pimentón rojo, arroz (opcional), caldo de verduras, laurel",45 min,Fácil
+9,Ceviche Clásico,Entrada,"Pescado blanco fresco (reineta o corvina), jugo de limón sutil, cebolla morada pluma, cilantro fresco, ají verde o rocoto, sal, pimienta",30 min,Media
+10,Charquicán,Fondo,"Carne picada o charqui, papas en cubos, zapallo en cubos, choclo desgranado, arvejas, cebolla, ajo, pimentón, orégano",45 min,Fácil
+11,Hamburguesa Casera,Comida Rápida,"Carne molida, pan de hamburguesa, lechuga, tomate, queso cheddar, cebolla caramelizada, pepinillos, salsas a gusto",25 min,Fácil
+12,Tiramisú,Postre,"Queso mascarpone, huevos, azúcar, galletas de champaña, café expreso fuerte, cacao en polvo, licor de café (opcional)",4 horas (refrigeración),Media
+13,Pollo al Jugo con Arroz,Fondo,"Presas de pollo, arroz, cebolla, zanahoria, pimentón, caldo de pollo, vino blanco, ajo, sal, pimienta",50 min,Fácil
+14,Humitas,Fondo,"Choclo choclero molido, cebolla frita en manteca, albahaca picada, leche, ají de color, sal",90 min,Difícil
+15,Tacos de Carne,Cena,"Tortillas de maíz o trigo, carne de vacuno en tiras, pimentones de colores, cebolla, cilantro, limón, guacamole",30 min,Fácil

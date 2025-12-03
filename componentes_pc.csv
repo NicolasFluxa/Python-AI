@@ -1,0 +1,18 @@
+id,categoria,nombre,precio,gama,uso_recomendado,specs
+1,Procesador,AMD Ryzen 5 5600G,130000,Media,Oficina/Gaming Ligero,6 núcleos - 3.9GHz - Gráficos Integrados
+2,Procesador,Intel Core i5-13400F,190000,Media-Alta,Gaming/Productividad,10 núcleos - Sin gráficos integrados
+3,Procesador,AMD Ryzen 7 7800X3D,450000,Alta,Gaming Extremo,8 núcleos - Especial para juegos
+4,Placa Madre,Asus Prime B550M-A,95000,Media,General,Socket AM4 - 4 slots RAM - mATX
+5,Placa Madre,MSI B760 Gaming Plus,160000,Media-Alta,Gaming,Socket LGA1700 - Wifi - ATX
+6,Memoria RAM,Kingston Fury 8GB DDR4,25000,Baja,Oficina,3200MHz - Latencia CL16
+7,Memoria RAM,Corsair Vengeance 16GB (2x8) DDR4,45000,Media,Gaming Estándar,3200MHz - Dual Channel
+8,Memoria RAM,G.Skill Trident Z 32GB (2x16) DDR5,110000,Alta,Edición/Gaming Pro,6000MHz - RGB
+9,Almacenamiento,SSD Kingston NV2 500GB,35000,Baja,Sistema Operativo,NVMe PCIe 4.0
+10,Almacenamiento,SSD Samsung 980 Pro 1TB,90000,Alta,Carga rápida juegos,NVMe PCIe 4.0 - Alta velocidad
+11,Tarjeta de Video,NVIDIA GeForce RTX 3050,230000,Baja,Gaming 1080p,8GB GDDR6
+12,Tarjeta de Video,NVIDIA GeForce RTX 4060,320000,Media,Gaming 1080p Ultra,8GB GDDR6 - DLSS 3
+13,Tarjeta de Video,AMD Radeon RX 7800 XT,550000,Alta,Gaming 1440p,16GB GDDR6
+14,Fuente de Poder,EVGA 600W 80+ White,45000,Baja,Equipos básicos,No modular
+15,Fuente de Poder,Corsair RM750e 750W Gold,105000,Alta,Equipos Gamer,Full Modular - Silenciosa
+16,Gabinete,Deepcool Matrexx 50,40000,Media,General,Vidrio Templado - 3 Ventiladores
+17,Gabinete,NZXT H5 Flow,85000,Alta,Flujo de aire,Diseño minimalista - Alto flujo
