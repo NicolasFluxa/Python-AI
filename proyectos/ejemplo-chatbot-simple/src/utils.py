@@ -50,7 +50,7 @@ def calcular_similitud(texto1, texto2):
         similitud = cosine_similarity(tfidf_matrix[0:1], tfidf_matrix[1:2])[0][0]
         
         return similitud
-    except:
+    except (ValueError, AttributeError) as e:
         # Si hay algún error, retornar 0
         return 0.0
 

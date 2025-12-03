@@ -77,11 +77,11 @@ ejemplo-chatbot-simple/
 ├── README.md              # Este archivo
 ├── requirements.txt       # Dependencias
 ├── src/
+│   ├── __init__.py       # Inicializador del paquete
 │   ├── chatbot.py        # Código principal del chatbot
 │   ├── responses.py      # Base de conocimiento
 │   └── utils.py          # Funciones auxiliares
-└── data/
-    └── conversaciones.json  # Datos de entrenamiento
+└── data/                  # Carpeta para datos futuros
 ```
 
 ## 👤 Autor
